@@ -21,16 +21,14 @@ js-nodejs-course/
 │   ├── 06-objetos/
 │   └── ...
 │
-├── nodejs/        # Todo lo relacionado a NodeJS (JavaScript del lado del servidor)
-│   ├── 01-introduccion/
-│   ├── 02-modulos/
-│   ├── 03-fs/
-│   ├── 04-http/
-│   ├── 05-express/
-│   ├── 06-api-rest/
-│   └── ...
-│
-└── recursos/      # (Opcional) PDFs, cheatsheets, imágenes de apoyo
+└──── nodejs/        # Todo lo relacionado a NodeJS (JavaScript del lado del servidor)
+   ├── 01-introduccion/
+   ├── 02-modulos/
+   ├── 03-fs/
+   ├── 04-http/
+   ├── 05-express/
+   ├── 06-api-rest/
+   └── ...
 ```
 
 ---
@@ -68,7 +66,7 @@ js-nodejs-course/
 1. Cloná el repo:
 
 ```bash
-git clone https://github.com/tuusuario/js-nodejs-course.git
+git clone https://github.com/TheDr1xx/Curso-JS-y-NodeJS.git
 cd js-nodejs-course
 ```
 
@@ -107,7 +105,7 @@ node nodejs/02-modulos/index.js
 
 ## 🐸 Autor
 
-Creado por **Señor TheDr!xx**
+Creado por **TheDr!xx**
 Con amor, paciencia y café ☕.
 Si te sirvió, dejá una estrella ⭐ y compartilo con alguien que lo necesite.
 
